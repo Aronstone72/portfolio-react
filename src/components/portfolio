@@ -29,9 +29,7 @@ const LeftBanner = () => {
           {/* I use animation as a third dimension by which to simplify experiences
           and kuiding thro each and every interaction. I'm not adding motion
           just to spruce things up, but doing it in ways that. */}
-          I'm a software engineer specializing in building Frontend Designing,
-          creativity and problem-solving skills. Currently, I'm focused on 
-          building MERN Stack based projects.  
+          I'm a software engineer, specialization lies in creating visually appealing and user-friendly interfaces for web applications. Having strong passion for combining design principles with coding skills to deliver seamless and engaging user experiences. 
         </p>
       </div>
      {/* Media */}
