@@ -16,7 +16,7 @@ const ContactLeft = () => {
           Frontend Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          software engineer specializing in building Frontend Designing
+          software engineer specializing in building Frontend Design.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+91 7517220090</span>
